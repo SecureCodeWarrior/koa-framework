@@ -29,7 +29,7 @@
     "jsonschema": "~1.0.0",
     "jsonschema-extra": "^1.0.2",
     "koa": "1.7.0",
-    "koa-body-parser": "~1.1.0",
+    "koa-bodyparser": "^2.5.0",
     "koa-cors": "0.0.16",
     "koa-gzip": "^0.1.0",
     "koa-helmet": "^0.2.0",
